@@ -2,96 +2,103 @@
   type: map
   contents:
     - name: Full Name
-      value: Albert Einstein
-    - name: Date of Birth
-      value: 14th March 1879
-    - name: Languages
-      value: English, German
+      value: Zhe (Monica) Zhong
+    - name: Email
+      value: zzhong47@gatech.edu
+    - name: Google Scholar
+      value: https://scholar.google.com/citations?user=DNzCe9IAAAAJ&hl=en
 
 - title: Education
   type: time_table
   contents:
-    - title: PhD
-      institution: University of Zurich, Zurich, Switzerland
-      year: 1905
-      description:
-        - Description 1.
-        - Description 2.
-        - title: Description 3.
-          contents:
-            - Sub-description 1.
-            - Sub-description 2.
-    - title: Federal teaching diploma
-      institution: Eidgenössische Technische Hochschule, Zurich, Switzerland
-      year: 1900
-      description:
-        - Description 1.
-        - Description 2.
+    - title: PhD in Bioengineering / Mechanical Engineering
+      institution: Georgia Institute of Technology, Atlanta, GA
+      year: Aug 2020 - Oct 2025
+    - title: PhD in Biological and Environmental Engineering (Transferred)
+      institution: Cornell University, Ithaca, NY
+      year: Aug 2018 - Jul 2020
+    - title: BS in Biomedical Engineering
+      institution: Boston University, Boston, MA
+      year: Sep 2011 - Jun 2015
 
-- title: Experience
+- title: Academic Experience
   type: time_table
   contents:
-    - title: Professor of Theoretical Physics
-      institution: Institute for Advanced Study, Princeton University
-      year: 1933 - 1955
+    - title: Graduate Research Assistant
+      institution: Georgia Institute of Technology, Mechanical Engineering & Biomedical Engineering
+      year: Jan 2020 - Present
       description:
-        - Description 1.
-        - Description 2.
-        - title: Description 3.
-          contents:
-            - Sub-description 1.
-            - Sub-description 2.
-    - title: Visiting Professor
-      institution: California Institute of Technology, Pasadena, California, US
-      year: 1933
+        - Advisor: Dr. Ankur Singh
+        - Led research on human immune organoid platforms for studying vaccine and adjuvant responses.
+        - Published work in peer-reviewed journals including Nature Materials.
+    - title: Graduate Research Assistant
+      institution: Cornell University, Biological and Environmental Engineering
+      year: Sep 2018 - Jan 2020
       description:
-        - Description 1.
-        - Description 2.
-
-    - title: Director
-      institution: Kaiser Wilhelm Institute for Physics, Berlin, Germany.
-      year: 1917-1933
-
-    - title: Professor of Theoretical Physics
-      institution: Karl-Ferdinand University, Prague, Czechoslovakia
-      year: 1911 - 1917
+        - Advisor: Dr. Minglin Ma
+        - Investigated biomaterials and cell therapy strategies for type 1 diabetes.
+    - title: Research Associate
+      institution: Massachusetts Institute of Technology, Department of Biology
+      year: Oct 2015 - May 2018
       description:
+        - Advisor: Dr. Laurie Boyer
+        - Studied pathways regulating cardiomyocyte maturation, metabolism, and regeneration.
+    - title: Research Associate
+      institution: Massachusetts Institute of Technology, Department of Biological Engineering
+      year: Oct 2015 - Oct 2017
+      description:
+        - Advisor: Dr. Linda Griffith
+        - Developed and characterized cardiac microphysiological systems.
+    - title: Undergraduate Research Assistant
+      institution: Harvard-MIT HST Program & Boston University Center for Regenerative Medicine
+      year: Oct 2013 - May 2015
+      description:
+        - Advisors: Dr. Ali Khademhosseini, Dr. Gustavo Mostoslavsky, Dr. Shrike Yu Zhang
+        - Worked on 3D bioprinting technologies for multiple cell types.
 
-    - title: Associate Professor of Theoretical Physics
-      institution: University of Zurich, Zurich, Switzerland
-      year: 1909 - 1911
-
-- title: Open Source Projects
+- title: Selected Publications
   type: time_table
   contents:
-    - title: <a href="https://github.com/alshedivat/al-folio">al-folio</a>
-      year: 2015-now
-      description: A beautiful, simple, clean, and responsive Jekyll theme for academics.
-
-- title: Honors and Awards
-  type: time_table
-  contents:
-    - year: 1921
+    - year: 2026
       items:
-        - Nobel Prize in Physics
-        - Matteucci Medal
-    - year: 2029
+        - "Lymphoid Integrated Immunocompetent Human Lung-on-a-Chip Elucidates Coordinated Mucosal-Systemic Immune Crosstalk" (Nature Materials, submitted)
+    - year: 2025
       items:
-        - Max Planck Medal
+        - "Human Immune Organoids to Decode B Cell Response in Healthy Donors and Lymphoma Patients" (Nature Materials)
+        - "miRNA Delivery via Nanowires Restores Functional Responses in Aged T Cells" (Cell Biomaterials, in revision)
+        - "Ex Vivo Bone Marrow Subniches Influence the Fate of Human Antibody-Secreting Cells" (Science Advances, in revision)
+    - year: 2024
+      items:
+        - "Mechanotransduction governs CD40 function and underlies X-linked Hyper IgM syndrome" (Science Advances)
+    - year: 2023
+      items:
+        - "Profiling Germinal Center-like B Cell Responses to Conjugate Vaccines Using Synthetic Immune Organoids" (ACS Central Science)
+        - "Combinatorial Targeting of Aberrant Signaling Pathways in Lymphomas..." (Nature Materials)
 
-- title: Academic Interests
+- title: Patents
+  type: time_table
+  contents:
+    - year: 2025
+      items:
+        - "Framework for Fabricating Natural Human Antibodies Targeting Human Proteins" (US63/827,376, filed)
+    - year: 2024
+      items:
+        - "Lymphoid Tissues with Switchable Protein Gradients" (US63/571,731, filed)
+    - year: 2022
+      items:
+        - "Photopatterned Designer Soft Tissues for Immune Cell Encapsulation and Application" (US63/348,191, filed)
+    - year: 2021
+      items:
+        - "Lymphoid Tissue System Harnesses Ex Vivo Immune Reactions for Rapid Antibody Production and Immune Response Prediction" (US63/465,119, filed)
+
+- title: Research Interests
   type: nested_list
   contents:
-    - title: Topic 1.
+    - title: Immune Engineering
       items:
-        - Description 1.
-        - Description 2.
-    - title: Topic 2.
+        - Human immune organoids
+        - Vaccine and adjuvant response modeling
+    - title: Biomaterials and Tissue Engineering
       items:
-        - Description 1.
-        - Description 2.
-
-- title: Other Interests
-  type: list
-  contents:
-    - <u>Hobbies:</u> Hobby 1, Hobby 2, etc.
+        - Immune tissue microenvironments
+        - Cell-material interactions
