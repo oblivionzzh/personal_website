@@ -28,68 +28,68 @@
       institution: Georgia Institute of Technology, Mechanical Engineering & Biomedical Engineering
       year: Jan 2020 - Present
       description:
-        - Advisor: Dr. Ankur Singh
-        - Led research on human immune organoid platforms for studying vaccine and adjuvant responses.
-        - Published work in peer-reviewed journals including Nature Materials.
+        - "Advisor: Dr. Ankur Singh"
+        - "Led research on human immune organoid platforms for studying vaccine and adjuvant responses."
+        - "Published work in peer-reviewed journals including Nature Materials."
     - title: Graduate Research Assistant
       institution: Cornell University, Biological and Environmental Engineering
       year: Sep 2018 - Jan 2020
       description:
-        - Advisor: Dr. Minglin Ma
-        - Investigated biomaterials and cell therapy strategies for type 1 diabetes.
+        - "Advisor: Dr. Minglin Ma"
+        - "Investigated biomaterials and cell therapy strategies for type 1 diabetes."
     - title: Research Associate
       institution: Massachusetts Institute of Technology, Department of Biology
       year: Oct 2015 - May 2018
       description:
-        - Advisor: Dr. Laurie Boyer
-        - Studied pathways regulating cardiomyocyte maturation, metabolism, and regeneration.
+        - "Advisor: Dr. Laurie Boyer"
+        - "Studied pathways regulating cardiomyocyte maturation, metabolism, and regeneration."
     - title: Research Associate
       institution: Massachusetts Institute of Technology, Department of Biological Engineering
       year: Oct 2015 - Oct 2017
       description:
-        - Advisor: Dr. Linda Griffith
-        - Developed and characterized cardiac microphysiological systems.
+        - "Advisor: Dr. Linda Griffith"
+        - "Developed and characterized cardiac microphysiological systems."
     - title: Undergraduate Research Assistant
       institution: Harvard-MIT HST Program & Boston University Center for Regenerative Medicine
       year: Oct 2013 - May 2015
       description:
-        - Advisors: Dr. Ali Khademhosseini, Dr. Gustavo Mostoslavsky, Dr. Shrike Yu Zhang
-        - Worked on 3D bioprinting technologies for multiple cell types.
+        - "Advisors: Dr. Ali Khademhosseini, Dr. Gustavo Mostoslavsky, Dr. Shrike Yu Zhang"
+        - "Worked on 3D bioprinting technologies for multiple cell types."
 
 - title: Selected Publications
   type: time_table
   contents:
     - year: 2026
       items:
-        - "Lymphoid Integrated Immunocompetent Human Lung-on-a-Chip Elucidates Coordinated Mucosal-Systemic Immune Crosstalk" (Nature Materials, submitted)
+        - "Lymphoid Integrated Immunocompetent Human Lung-on-a-Chip Elucidates Coordinated Mucosal-Systemic Immune Crosstalk (Nature Materials, submitted)"
     - year: 2025
       items:
-        - "Human Immune Organoids to Decode B Cell Response in Healthy Donors and Lymphoma Patients" (Nature Materials)
-        - "miRNA Delivery via Nanowires Restores Functional Responses in Aged T Cells" (Cell Biomaterials, in revision)
-        - "Ex Vivo Bone Marrow Subniches Influence the Fate of Human Antibody-Secreting Cells" (Science Advances, in revision)
+        - "Human Immune Organoids to Decode B Cell Response in Healthy Donors and Lymphoma Patients (Nature Materials)"
+        - "miRNA Delivery via Nanowires Restores Functional Responses in Aged T Cells (Cell Biomaterials, in revision)"
+        - "Ex Vivo Bone Marrow Subniches Influence the Fate of Human Antibody-Secreting Cells (Science Advances, in revision)"
     - year: 2024
       items:
-        - "Mechanotransduction governs CD40 function and underlies X-linked Hyper IgM syndrome" (Science Advances)
+        - "Mechanotransduction governs CD40 function and underlies X-linked Hyper IgM syndrome (Science Advances)"
     - year: 2023
       items:
-        - "Profiling Germinal Center-like B Cell Responses to Conjugate Vaccines Using Synthetic Immune Organoids" (ACS Central Science)
-        - "Combinatorial Targeting of Aberrant Signaling Pathways in Lymphomas..." (Nature Materials)
+        - "Profiling Germinal Center-like B Cell Responses to Conjugate Vaccines Using Synthetic Immune Organoids (ACS Central Science)"
+        - "Combinatorial Targeting of Aberrant Signaling Pathways in Lymphomas... (Nature Materials)"
 
 - title: Patents
   type: time_table
   contents:
     - year: 2025
       items:
-        - "Framework for Fabricating Natural Human Antibodies Targeting Human Proteins" (US63/827,376, filed)
+        - "Framework for Fabricating Natural Human Antibodies Targeting Human Proteins (US63/827,376, filed)"
     - year: 2024
       items:
-        - "Lymphoid Tissues with Switchable Protein Gradients" (US63/571,731, filed)
+        - "Lymphoid Tissues with Switchable Protein Gradients (US63/571,731, filed)"
     - year: 2022
       items:
-        - "Photopatterned Designer Soft Tissues for Immune Cell Encapsulation and Application" (US63/348,191, filed)
+        - "Photopatterned Designer Soft Tissues for Immune Cell Encapsulation and Application (US63/348,191, filed)"
     - year: 2021
       items:
-        - "Lymphoid Tissue System Harnesses Ex Vivo Immune Reactions for Rapid Antibody Production and Immune Response Prediction" (US63/465,119, filed)
+        - "Lymphoid Tissue System Harnesses Ex Vivo Immune Reactions for Rapid Antibody Production and Immune Response Prediction (US63/465,119, filed)"
 
 - title: Research Interests
   type: nested_list
