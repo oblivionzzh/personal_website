@@ -18,7 +18,7 @@ ninja.data = [{
           },
         },{id: "nav-cv",
           title: "CV",
-          description: "This is a description of the page. You can modify it in &#39;_pages/cv.md&#39;. You can also change or remove the top pdf download button.",
+          description: "Academic profile and research record.",
           section: "Navigation",
           handler: () => {
             window.location.href = "/cv/";
@@ -111,7 +111,7 @@ ninja.data = [{
         title: 'email',
         section: 'Socials',
         handler: () => {
-          window.open("mailto:%77%6F%72%6B@%7A%7A%68%6F%6E%67.%73%6C%6D%61%69%6C.%6D%65", "_blank");
+          window.open("mailto:%7A%7A%68%6F%6E%67%34%37@%67%61%74%65%63%68.%65%64%75", "_blank");
         },
       },{
         id: 'social-linkedin',
